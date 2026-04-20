@@ -1,11 +1,11 @@
-# more.js
+# more
 
 🛠 Truncate content in table cells.
 
 ## Preview 🎉
 
-* <http://codepen.io/piecioshka/pen/GqZydL>
-* <https://piecioshka.github.io/more.js/>
+- <https://codepen.io/piecioshka/pen/GqZydL>
+- <https://piecioshka.github.io/more/>
 
 ## Motivation
 
@@ -15,15 +15,15 @@ More about that tool (in Polish): <https://piecioshka.pl/blog/2014/01/30/narzedz
 
 1. Before use:
 
-    ![normal](http://piecioshka.pl/assets/images/posts/more-js/more-js-normal.png)
+    ![normal](https://piecioshka.pl/assets/images/posts/more-js/more-js-normal.png)
 
 2. After use or after the 'less' link is clicked:
 
-    ![collapse](http://piecioshka.pl/assets/images/posts/more-js/more-js-collapse.png)
+    ![collapse](https://piecioshka.pl/assets/images/posts/more-js/more-js-collapse.png)
 
 3. After use and click the 'more' link:
 
-    ![expand](http://piecioshka.pl/assets/images/posts/more-js/more-js-expand.png )
+    ![expand](https://piecioshka.pl/assets/images/posts/more-js/more-js-expand.png )
 
 ## Usage
 
@@ -69,4 +69,4 @@ new More({
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2014
+[The MIT License](https://piecioshka.mit-license.org) @ 2014
